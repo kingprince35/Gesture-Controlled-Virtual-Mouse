@@ -22,4 +22,13 @@ This project allows users to control their computer's mouse using hand gestures 
 ## Setup Instructions
 1. Clone this repository to your local machine:
    ```bash
-   git clone:- https://github.com/kingprince35/Gesture-Controlled-Virtual-Mouse/blob/main/thumb_finger_virtual_mouse.py 
+   git clone:- https://github.com/kingprince35/Gesture-Controlled-Virtual-Mouse/blob/main/thumb_finger_virtual_mouse.py
+
+## Contact
+
+- Email: [prajapatiprince903@gmail.com](mailto:prajapatiprince903@gmail.com)
+- LinkedIn: [Prince Prajapati](https://www.linkedin.com/in/prince-prajapati-6b988823a/)
+- GitHub: [kingprince35](https://github.com/kingprince35)
+- Twitter: [@PrincePraj3378](https://x.com/PrincePraj3378)
+- Instagram: [@_prince_3_5](https://www.instagram.com/_prince_3_5/)
+
